@@ -5,8 +5,8 @@ list of papers, code, datasets and other resources
 ## Survey
 * A survey of 3D object detection
 
-
-## Region Proposal based methods (two stage)
+##LiDAR based
+### Region Proposal based methods (two stage)
 
 * PointRCNN [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf) [[code]](https://github.com/sshaoshuai/PointRCNN)
 * Fast Point R-CNN [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Fast_Point_R-CNN_ICCV_2019_paper.pdf) [[code]]()
@@ -15,11 +15,16 @@ list of papers, code, datasets and other resources
 
 
 
-## Single shot methods
+### Single shot methods
 
 * PIXOR [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf) [[code]](https://github.com/mileyan/pseudo-LiDAR_e2e)
 * SECOND [[paper]](https://www.mdpi.com/1424-8220/18/10/3337/htm) [[code]](https://github.com/traveller59/second.pytorch)
 * PointPillars [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf) [[code]](https://github.com/nutonomy/second.pytorch)
+
+## Monocular image based
+
+
+## RGB-D based
 
 
 ## Sensor Fusion
