@@ -20,6 +20,7 @@ list of papers, code, datasets and other resources
 * PIXOR [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf) [[code]](https://github.com/mileyan/pseudo-LiDAR_e2e)
 * SECOND [[paper]](https://www.mdpi.com/1424-8220/18/10/3337/htm) [[code]](https://github.com/traveller59/second.pytorch)
 * PointPillars [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf) [[code]](https://github.com/nutonomy/second.pytorch)
+* Boosting Single-Frame 3D Object Detection by Simulating Multi-Frame Point Clouds
 
 ## Monocular image based
 * M3DSSD: Monocular 3D Single Stage Object Detector [[paper]]() [[code]](https://github.com/mumianyuxin/M3DSSD)
